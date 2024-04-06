@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-Implementation of a attendance system using the face-recognition module. 
+Implementation of a attendance system using the face-recognition module, with Firebase 
 
 ## Installation
 
@@ -18,6 +18,7 @@ pip install cvzone
 pip install opencv-python===4.5.4.60
 ```
 
+Add serviceAccountKey.json from Firebase database to project root
 ## Usage
 
 ```python
